@@ -1,0 +1,53 @@
+.orange-bg{
+    background-color: #fceae8;
+    border-radius: 10px;
+}
+.carousel-item{
+    padding: 20px 48px;
+}
+.price{
+    color: #ff3987;
+}
+.By-now-button{
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+}
+.container{
+    margin-bottom: 100px;
+}
+.cat1{
+    background-color: orange;
+}
+.cat2{
+    background-color: #da70d6;
+
+}
+.cat3{
+ background-color: #0000ff;
+}
+.cat1, .cat2, .cat3{
+    padding: 10px 38px;
+    border-radius: 10px;
+}
+.catagories h1{
+    color: white;
+}
+.catagories img{
+    width: 100px;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgrey;
+}
+.card-footer{
+    background-color: white;
+    border-top: none;
+}
+#subscribe {
+    height: 300px;}
+    footer{
+        text-align: center;
+    }
